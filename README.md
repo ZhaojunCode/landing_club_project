@@ -4,6 +4,7 @@ Landing_club_project from Kaggle
 ## Introduction of Lending Club
 
   The Lending Club is a peer-to-peer money loan platform, it connects borrowers with investors through their online marketplace. The investor can loan their money to different borrowers with the different interest rate, therefore, gain the interest through the process. However, the investor also has the risk of losing money. 
+  
 
 ## Goals of the project
   Therefore, In this study, I am going to analyze the loan histories at Lending Club from 2007-2015 to investigate the following problems:
