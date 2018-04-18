@@ -6,9 +6,12 @@ Landing_club_project from Kaggle
 
   The Lending Club is a peer-to-peer money loan platform, it connects borrowers with investors through their online marketplace. The investor can loan their money to different borrowers with different interest rate therefore gain the interest through the process. However, the investor also has the risk of losing money. 
 
-## target of the project
+## Goals of the project
   Therefore, In this study, I am going to analyze the loan histories at Lending Club from 2007-2015 to investigate the following problems: 
   1. indentify the risk loan
   2. optimize the invest interest rate 
   
-
+## Analysis Step
+1. Data clean and format
+2. Statiscal analaysis on the Data
+3. Model predication
